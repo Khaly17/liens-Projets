@@ -1,0 +1,7 @@
+https://cvkhd-d5532.firebaseapp.com/
+https://coud-web.herokuapp.com/
+https://marvel-quiz-2ec2a.firebaseapp.com/
+https://localisation-objet-statique.herokuapp.com/
+https://defi-react.herokuapp.com/
+
+https://apibeacon.herokuapp.com/api/beacons
